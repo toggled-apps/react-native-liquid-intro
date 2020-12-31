@@ -18,7 +18,7 @@ This react native module is intended to provide a beautifully animated liquid in
 ## 🚀 Run the example
 The provided example uses [expo](https://expo.io/).
 
-Expo Project: https://expo.io/@toggled-apps/react-native-product-selector
+Expo Project: https://expo.io/@toggled-apps/react-native-liquid-intro
 
 Build locally: Navigate to the "examples" directory and run:
 
@@ -26,7 +26,9 @@ Build locally: Navigate to the "examples" directory and run:
 - Run `yarn ios` or `yarn android` or `npm run ios` or `npm run android`.
 
 ## 💸 Credit
-Credit also goes to Purrweb UI for making this concept avaliable. The dribble can be found [here](https://dribbble.com/shots/14473051-eCommerce-Store-App-Design)
+Credit goes to William Candillion for the [source code](https://github.com/wcandillon/can-it-be-done-in-react-native/tree/master/season3/src/LiquidSwipe) and the informative tutorial [here](https://youtu.be/gLopy2MCAqM) on which this project is based upon. 
+
+Credit also goes to Cuberto and making their concept avaliable on dribble [here](https://dribbble.com/shots/5813405-Liquid-Swipe-Open-Source).
 
 ## 🤟 Contributions
 This project is mantained by Toggled LTD (@toggled-apps).
